@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi! 👋
+Welcome to my GitHub! I'm a passionate developer with a background in FiveM development, web technologies, and scripting. I primarily create systems from scratch using ESX Framework and OX Framework.
 
-<!--
-**Ehhas/ehhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Skills & Technologies:
+Programming Languages: Lua, JavaScript, Python, HTML, CSS.
+FiveM Development: ESX Framework, OX Framework, custom scripts.
+Web Development: Frontend & Backend solutions.
+Learning: Networking & server-side optimization.
 
-Here are some ideas to get you started:
+💡 What I'm Learning:
+Currently improving my networking skills to enhance the performance and security of servers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 Contact:
+If you're interested in custom scripts or collaborations, feel free to contact me on Discord: ehhas.
